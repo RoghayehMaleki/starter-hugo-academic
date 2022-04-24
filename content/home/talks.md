@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
+title: 'Talks'
 subtitle:
 
 content:
@@ -39,3 +39,11 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+1. The 28th British Combinatorial Conference (BCC 2021), July 2021 - Durham Univerity, England
+2. Canadian Mathematical Society, Summer 2021 - Otawa, Canada
+3. The Graduate Student Combinatorics Conference (GSCC), Winter 2021 - Minnesota, USA
+4. Canadian Mathematical Society, Winter 2021 - Montreal, Canada
+5. Graduate Research Conference, Feb 2020 - Regina, Canada
+6. Group Algebras, Representations and Computation Conference (International Centre for Theoretical Science-ICTS 2019), Fall 2019 - Bangalore, India
+7. Canadian Mathematical Society, Summer 2019 - Regina, Canada
