@@ -71,7 +71,7 @@ highlight_name: true
 
 Welcome to my web page. I am Roghayeh (Mitra) Maleki. I am a postdoctoral researcher in mathematics at the University of Primorska, working with [Dr. Štefko Miklavič‬](https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/miklavic/).
 
-I completed my Ph.D in algebraic combinatorics at the University of Regina, under the supervision of [Dr. Allen Herman](https://uregina.ca/~hermana/).
+I completed my Ph.D in algebraic combinatorics at the University of Regina in 2022, under the supervision of [Dr. Allen Herman](https://uregina.ca/~hermana/).
 
 My research interests lie in the area of algebraic combinatorics. I am particularly interested in the theory of association schemes and related combinatorial objects.
 
