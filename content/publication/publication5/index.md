@@ -14,8 +14,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-01-31"
-#doi: "https://doi.org/10.1016/j.disc.2021.112467"
+date: "2023-01-31"
+doi: "https://doi.org/10.1016/j.disc.2021.112467"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -27,7 +27,7 @@ date: "2022-01-31"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Discrete Mathematics*
+publication: In *Linear Algebra Appl.*
 #publication_short: In *ICW*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.

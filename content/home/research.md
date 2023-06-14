@@ -14,7 +14,7 @@ subtitle: ''
 
 #content:
   # Page type to display. E.g. project.
-#  page_type: project
+  #  page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
 #  filter_default: 0
@@ -31,22 +31,19 @@ subtitle: ''
 #    tag: Deep Learning
 #  - name: Other
 #    tag: Demo
-
 #design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
 #  columns: '2'
-
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
 #  view: 2
-
   # For Showcase view, flip alternate rows?
 #  flip_alt_rows: false
 ---
 My current research projects are the following.
- 1. The Cyclotomic Eigenvalue Question for commutative association schemes
- 2. Terwilliger algebras of group association schemes
+ 1. Terwilliger algebras and Association schemes
+ 2. The Cyclotomic Eigenvalue Question for commutative association schemes
  3. Intersection type problems.

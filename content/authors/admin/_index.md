@@ -6,26 +6,25 @@ title: Roghayeh Maleki
 superuser: true
 
 # Role/position/tagline
-role: Ph.D student
+role: Postdoctoral researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Regina
-  url: https://www.uregina.ca/
+- name: University of Primorska
+  url: https://www.upr.si/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
 - Algebraic combinatorics
 - Representation theory
-- Combinatorics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD candidate in mathematics
+  - course: Ph.D 
     institution: University of Regina
     year: 2018-2022
   #- course: MEng in Artificial Intelligence

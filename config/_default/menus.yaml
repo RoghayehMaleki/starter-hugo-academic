@@ -21,7 +21,13 @@ main:
     weight: 40
   - name: Talks
     url: '#talks'
+    weight: 41
+  - name: Teaching
+    url: '#Teaching'
     weight: 45
+  - name: Data
+    url: '#data'
+    weight: 46
   - name: Contact
     url: '#contact'
     weight: 50

@@ -40,10 +40,11 @@ design:
   view: 2
 ---
 
-1. The 28th British Combinatorial Conference (BCC 2021), July 2021 - Durham Univerity, England
-2. Canadian Mathematical Society, Summer 2021 - Otawa, Canada
-3. The Graduate Student Combinatorics Conference (GSCC), Winter 2021 - Minnesota, USA
-4. Canadian Mathematical Society, Winter 2021 - Montreal, Canada
-5. Graduate Research Conference, Feb 2020 - Regina, Canada
-6. Group Algebras, Representations and Computation Conference (International Centre for Theoretical Science-ICTS 2019), Fall 2019 - Bangalore, India
-7. Canadian Mathematical Society, Summer 2019 - Regina, Canada
+1. April 2023, Combinatorics Seminar - University of Wisconsin, USA
+2. July 2021, The 28th British Combinatorial Conference (BCC 2021) - Durham Univerity, England
+3. July 2021, Canadian Mathematical Society, Summer 2021 - Otawa, Canada
+4. April 2021, The Graduate Student Combinatorics Conference (GSCC) - Minnesota, USA
+5. Winter 2021, Canadian Mathematical Society - Montreal, Canada
+6. February 2020, Graduate Research Conference - Regina, Canada
+7. October 2019, Group Algebras, Representations and Computation Conference (International Centre for Theoretical Science-ICTS 2019) - Bangalore, India
+8. July 2019, Canadian Mathematical Society - Regina, Canada
